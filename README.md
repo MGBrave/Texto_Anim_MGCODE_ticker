@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/MGBrave/data_financial/blob/main/p1.png?raw=true" width="400" alt="mgcode" />
+<img src="https://github.com/MGBrave/Texto_Anim_MGCODE_ticker/blob/main/mgcodeinfinito.png?raw=true" width="500" alt="mgcode" />
 
 
 
