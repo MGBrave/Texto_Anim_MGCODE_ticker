@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/MGBrave/Texto_Anim_MGCODE_ticker/blob/main/mgcodeinfinito.png?raw=true" width="500" alt="mgcode" />
+<img src="https://github.com/MGBrave/Texto_Anim_MGCODE_ticker/blob/main/ticker%20infinito.gif?raw=true"  alt="mgcode" />
 
 
 
