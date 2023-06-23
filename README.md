@@ -8,7 +8,7 @@
 
 <img src="https://github.com/MGBrave/Texto_Anim_MGCODE_ticker/blob/main/ticker%20infinito.gif?raw=true"  alt="mgcode" />
 
-
+[![Codepen Badge](https://img.shields.io/badge/-Demo-black?style=social-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo/full/mdQOmgr)
 
 
 ## <img src="https://user-images.githubusercontent.com/60014891/168324047-c0ccd0c7-3a0e-45c1-98a1-50ca64b82012.png" alt="phone" width="40"/> Contato: 
