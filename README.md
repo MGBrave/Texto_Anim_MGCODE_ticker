@@ -1,0 +1,1 @@
+# Texto_Anim_MGCODE_ticker
